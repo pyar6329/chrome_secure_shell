@@ -1,0 +1,63 @@
+{
+    "magic": "nassh-prefs",
+    "version": 1,
+    "nassh": {
+        "profile-ids": [
+            {
+                "id": "0228",
+                "json": {
+                    "description": "t.arima@127.0.0.1:22",
+                    "username": "t.arima",
+                    "hostname": "127.0.0.1",
+                    "port": 22
+                }
+            },
+            {
+                "id": "5a21",
+                "json": {
+                    "description": "chronos@127.0.0.1:22",
+                    "username": "chronos",
+                    "hostname": "127.0.0.1",
+                    "port": 22
+                }
+            },
+            {
+                "id": "9727",
+                "json": {
+                    "description": "pyar6329@127.0.0.1",
+                    "username": "pyar6329",
+                    "hostname": "127.0.0.1",
+                    "port": 22
+                }
+            }
+        ]
+    },
+    "hterm": {
+        "default": {
+            "background-color": "rgba(0, 43, 54, 0.9)",
+            "cursor-color": "rgba(238, 232, 213, 0.73)",
+            "color-palette-overrides": {
+                "0": "#073642",
+                "1": "#dc322f",
+                "2": "#859900",
+                "3": "#b58900",
+                "4": "#268bd2",
+                "5": "#d33682",
+                "6": "#2aa198",
+                "7": "#eee8d5",
+                "8": "#002b36",
+                "9": "#cb4b16",
+                "10": "#586e75",
+                "11": "#657b83",
+                "12": "#839496",
+                "13": "#6c71c4",
+                "14": "#93a1a1",
+                "15": "#fdf6e3"
+            },
+            "enable-bold": true,
+            "font-family": "\"Fira-Code-Nerd-Light\", \"Fura Code Light Nerd Font Complete\", monospace",
+            "foreground-color": "rgba(238, 232, 213, 1)",
+            "mouse-paste-button": false
+        }
+    }
+}
